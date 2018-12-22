@@ -43,4 +43,5 @@ print("---------------Matris----------------------")
 print(excel.GetParametreIsimleri())
 print("---------------Matris----------------------")
 print(excel.GetParametreIsimleri())
+
     
